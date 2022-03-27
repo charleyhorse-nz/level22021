@@ -1,12 +1,12 @@
 
 html{
-background-color: blue;
+background-color: #467fca;
 }
 
 .wrapper{
 height; auto;
 display: grid;
-grid-template-rows: 120px 600px 20% 5%;
+grid-template-rows: 150px 600px 20% 5%;
 grid-template-columns: 2fr 2fr 1fr;
 grid-gap: 20px;
 padding-top: 30px;
